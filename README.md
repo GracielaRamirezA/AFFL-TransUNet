@@ -8,3 +8,8 @@ This repository contains the code for the fuzzy inference system to automaticall
 
 # Block diagram of our proposal, AFFL-TransUNet
 ![Alt Text](Figures/Diagram.png)
+
+# Inputs and outputs of the fuzzy system
+![Alt Text](Figures/FuzzyInput1.png)
+![Alt Text](Figures/FuzzyInput2.png)
+![Alt Text](Figures/FuzzyOutput.png)
