@@ -7,7 +7,7 @@ This paper is currently under review
 This repository contains the code for the fuzzy inference system to automatically adjust the alpha term of the focal loss function 
 
 # Block diagram of our proposal, AFFL-TransUNet
-<img src='Figures/Diagram.png' width='300'>
+<img src='Figures/Diagram.png' width='900'>
 
 # Inputs and outputs of the fuzzy system
 ![Alt Text](Figures/FuzzyInput1.png) 
