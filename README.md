@@ -14,3 +14,5 @@ This repository contains the code for the fuzzy inference system to automaticall
 <img src='Figures/FuzzyInput2.png' width='300'>
 <img src='Figures/FuzzyOutput.png' width='300'>
 
+# Qualitative segmentation results
+<img src='Figures/qualitative.png' width='800'>
