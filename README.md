@@ -10,6 +10,6 @@ This repository contains the code for the fuzzy inference system to automaticall
 ![Alt Text](Figures/Diagram.png)
 
 # Inputs and outputs of the fuzzy system
-![Alt Text](Figures/FuzzyInput1.png)
-![Alt Text](Figures/FuzzyInput2.png)
-![Alt Text](Figures/FuzzyOutput.png)
+![Alt Text](Figures/FuzzyInput1.png) | width=100
+![Alt Text](Figures/FuzzyInput2.png) | width=100
+![Alt Text](Figures/FuzzyOutput.png) | width=100
