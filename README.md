@@ -17,7 +17,7 @@ This repository contains the code for the fuzzy inference system to automaticall
 ## Qualitative segmentation results
 <img src='Figures/qualitative.png' width='800'>
 
- ### Github used to implement baseline models
+ ### Githubs used to implement baseline models
  https://github.com/JiYuanFeng/MCTrans 
  https://github.com/mkara44/transunet_pytorch
  
