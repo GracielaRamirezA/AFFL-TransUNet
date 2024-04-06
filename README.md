@@ -18,6 +18,6 @@ This repository contains the code for the fuzzy inference system to automaticall
 <img src='Figures/qualitative.png' width='800'>
 
  ### Githubs used to implement baseline models
- https://github.com/JiYuanFeng/MCTrans 
- https://github.com/mkara44/transunet_pytorch
+ Seven baseline models: https://github.com/JiYuanFeng/MCTrans 
+ TransUnet model: https://github.com/mkara44/transunet_pytorch
  
