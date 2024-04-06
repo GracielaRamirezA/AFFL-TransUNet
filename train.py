@@ -88,7 +88,7 @@ class TrainTestPipe:
 
     def train(self):
         delta_arreglo=[]
-        start_alpha = np.array([0.5,0.5,0.5,0.5,0.5])#0.1,0.2,1.4,1.4,1.25
+        start_alpha = np.array([0.5,0.5,0.5,0.5,0.5])
         alpha = start_alpha
         flag_alpha = True
         class_sizes = np.array([0.95341027, 0.03366332, 0.00378282, 0.00374522, 0.00539836])
